@@ -1,7 +1,7 @@
 [
     {
         "number":1,
-        "link":""
+        "link":"https://raw.githubusercontent.com/xrlmdev/RadmirCrib/refs/heads/main/servers/1.json"
     },
     {
         "number":2,
@@ -79,4 +79,5 @@
         "number":19,
         "link":""
     }
+
 ]
